@@ -1,0 +1,15 @@
+.btns {
+  margin: auto;
+  width: 10%;
+  text-align: center;
+}
+
+button {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  text-align: center;
+  margin-right: 6%;
+  border: none;
+  background: none;
+}
