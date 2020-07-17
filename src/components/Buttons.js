@@ -10,7 +10,7 @@ function Buttons({ click, content }) {
         <Icon icon="refresh" />
       </button>
       <a
-        href={`https://twitter.com/intent/tweet?url=${"game"}&text=${content}`}
+        href={`https://twitter.com/intent/tweet?url=${"https://quoty-xyz.netlify.app"}&text=${content}`}
       >
         <button>
           <img src={tweet} alt="tweet" />
